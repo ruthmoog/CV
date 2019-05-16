@@ -14,6 +14,8 @@ I'd love to work somewhere that,
 
 ## Skills
 
+(list some egs to big up here??)
+
 #### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -33,28 +35,40 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### Makers Academy (May 2019 - Present)
+*Makers Fellow*
+- Great collaborator [PROVIDE EVIDENCE (Pair programming, github collabs, organising discord channels)]
+- Curious and passionate about code [PROVIDE EVIDENCE (attention to detail, specially tenacious re error messages)]
+- Fast, independent learner [PROVIDE EVIDENCE (accepted onto very selective pathway of highly selective course, problem solving using docu, stake overflow, troubleshooting irb, reflection to improve future processes)]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Thames Valley University (July 2015)
+*Music Technology*
+- Half-year of degree complete (I left to persue employment opportunity!)
+- Graded modules on Audio, Video, Audio theory
+- Experience with soundstudio techniques, MIDI and synthesis, multimedia
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Springer Nature** (Jun 2018 to Feb 2019)    
+*Project Coordinator*  
+**Biomed Central** (Jan 2013 to Jun 2018)    
+*Editorial Operations Manager*
+*Senior Editorial Operations Coordinator*
+*Operations Coordinator*
+**Springer Healthcare** (Oct 2009 to Jan 2013)    
+*Print Production Coordinator*
+**Current Medicine Group** (Jun 2008 to Oct 2009)
+*Office Administrator*
+*Office Assistant*
+
+## Other interests
+ - Dance including improv jazz tap & ballet. Volunteer for Rmabert.
+ - codebar & moderator for virtual codebar
+ - Bumblebees & BBCT
