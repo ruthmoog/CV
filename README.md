@@ -1,6 +1,16 @@
-## Your Name
+## Ruth Baker
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After working in science publishing for a decade I decided to change my career; I choose to work directly with technology, be a driver for digital innovation: to be a software developer.  I focussed on learning coding foundations, and was accepted on the Makers Academy fellowship program in May 2019.
+
+At Makers I have been developing coding knowledge, using best-practises, & learning industry-standard software engineering methods - You can take a look at some examples of my work on Github!
+[Blog](https://dev.to/ruthmoog) | [Website](https://ruthmoog.dev/)
+
+### What am I Looking For?
+I want to further technology, positively impact the lives of users, and work with fantastic people to achieve our goals & maintain great software.
+I'd love to work somewhere that,
+ - Invests in the growth of it's developers as well as technology
+ - Fosters an ethos of openess and adaptability
+ - Doesn't want to be scared of pushing code on Fridays
 
 ## Skills
 
