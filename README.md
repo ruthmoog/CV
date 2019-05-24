@@ -21,12 +21,14 @@ I'd love to work somewhere that,
 
 <details><summary>Able to create scalable solutions to time-boxed problems</summary><p>
 
-At Springer Nature I developed a strategy for GDPR compliance on journals which were note meeting out minimum requirements. To do this I collaborated with colleagues to investigate what issues needed to be corrected and generate potential solutions. I prioritised the most effective and achievable ideas in order to make all journals compliant by the legal deadline with the least disruption.
+At _Springer Nature_ I developed a strategy for GDPR compliance on journals which were not meeting minimum requirements. To do this I collaborated with colleagues to investigate issues and generate potential solutions. I prioritised effective and achievable ideas to make all journals compliant with minimal disruption and to deadline.
 
 </p></details>
 <details><summary>Investigate the root cause</summary><p>
 
-People I've coded with have told me they respect my tenacity when getting to the bottom of errors, if a test passes but the result doesn't look quite right, I want to know why.  At Springer Nature I was tasked with introducing a check in production to avoid publishing manuscripts with censoring errors.  When I looked into this, the errors were caused because users did not have instructions on how to censor their manuscript.  In addition we could introduce an check prior to production on only _relevant_ manuscripts without impacting production workload whilst saving a lot of time and heartache for the users.
+When coding with others I've been told my tenacity when getting to the bottom of errors is to be admired!  If a test passes but the results don't look quite right, I want to know why.
+
+At _Springer Nature_ I was tasked with introducing a check in production to avoid publishing manuscripts with censoring errors.  When I looked into the cause, the users were not given censoring instructions and were making mistakes.  In addition, the user community had more complex censoring needs than anticipated.  As well as providing up-to-date instructions, I was able to introduce a check prior to production. This targeted only _relevant_ manuscripts without impacting production workload, whilst saving time and heartache for the users.
 
 </p></details>
 <!-- Use tools for planning eg mind maps and flow charts -->
@@ -36,7 +38,7 @@ People I've coded with have told me they respect my tenacity when getting to the
 
 <details><summary>Good at spotting typographical errors</summary><p>
 
-I look out for errors and am good at spotting them.  This attention to detail was a requirement of my job in print production at Springer Healthcare, where I was responsible for approving proofs of print books and conference materials.  In my roles at BMC I would write and check online copy, and was called upon for proof-reading and checking HTML in my department.  It's a useful skill for writing code!
+I look out for errors and am good at spotting them.  This attention to detail was a requirement of my job in print production at _Springer Healthcare_.  I was responsible for approving proofs of print books and conference materials.  In my roles at _BMC_ I would write and check online copy, and was called upon for proof-reading copy and HTML in my department.  It's a useful skill for writing code!
 
 </p></details>
 <details><summary>Proactive approach to corrections</summary><p>
@@ -49,12 +51,12 @@ I am happy to make editorial suggestions and have used pull requests to improve 
 
 <details><summary>Growth mindset and will to learn</summary><p>
 
-In being selected for Makers I can say that they agree with this!  I take an organised approach to my learning and I consider where I focus my learning.  By changing my career I've demonstrated my determination to continue learning how to improve at programming.
+In being selected for _Makers_ I can say that they agree with this!  I take an organised approach to learning and consider where I focus.  Changing my career demonstrates my determination to continue learning and to improve at programming for the long-term.
 
 </p></details>
 <details><summary>Proactive approach to learning</summary><p>
 
-I enjoy learning through online courses, workshops, classes and coaching.  I can identifying gaps in knowledge and where I can improve.  As an example, I was struggling to limit the projects I was working on and was frustrated that as a result I wasn't delivering what I wanted.  I learned about Kanban to solve this problem and to help become familiar with the process.  I read up, and watched a talk by Eric Brechner, then used personal Kanban to manage my projects with Trello - Kaban helped me focus on only what I had prioritised, break down topics into clear deliverables, and lessened the cognitive load by reframing a long list of incomplete tasks as backlog.
+I enjoy learning and have become good better at identifying where I can improve.  I was struggling to limit my side-projects and was frustrated that as a result I wasn't delivering as quickly as I wanted.  I used the opportunity to learn Kanban, by reading up and watching a talk by Eric Brechner, then, I used personal Kanban to manage my side-projects with Trello.  Kaban helped me focus, work with clear deliverables, and lessen the cognitive load by reframing a long list of incomplete tasks as backlog.
 
 </p></details>
 <!-- Use retrospectives and feedback to spot opportunity -->
@@ -115,3 +117,5 @@ Digital media and print publisher for primary care professionals
 :computer: I like to attend coder meet-ups like codebar; I'm a moderator for the virtual codebar sessions.
 
 :bee: I'm a nature lover and citizen scientist.  I've volunteered as a BeeWalker for the Bumblebee Conservation Trust since 2017, collecting bumblebee abundance data.
+
+:ambulance: I'm a qualified workplace First Aider with British Red Cross (until 2021).
