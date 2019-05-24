@@ -19,12 +19,12 @@ I'd love to work somewhere that,
 
 #### Problem solving
 
-<details><summary>Able to create scalable solutions to time-boxed problems.</summary><p>
+<details><summary>Able to create scalable solutions to time-boxed problems</summary><p>
 
 At Springer Nature I developed a strategy for GDPR compliance on journals which were note meeting out minimum requirements. To do this I collaborated with colleagues to investigate what issues needed to be corrected and generate potential solutions. I prioritised the most effective and achievable ideas in order to make all journals compliant by the legal deadline with the least disruption.
 
 </p></details>
-<details><summary>Investigate the root cause.</summary><p>
+<details><summary>Investigate the root cause</summary><p>
 
 People I've coded with have told me they respect my tenacity when getting to the bottom of errors, if a test passes but the result doesn't look quite right, I want to know why.  At Springer Nature I was tasked with introducing a check in production to avoid publishing manuscripts with censoring errors.  When I looked into this, the errors were caused because users did not have instructions on how to censor their manuscript.  In addition we could introduce an check prior to production on only _relevant_ manuscripts without impacting production workload whilst saving a lot of time and heartache for the users.
 
@@ -41,7 +41,7 @@ I look out for errors and am good at spotting them.  This attention to detail wa
 </p></details>
 <details><summary>Proactive approach to corrections</summary><p>
 
-I am happy to make editorial suggestions and have used pull requests to improve document or code quality; like in the [codebar tutorials](https://github.com/ruthmoog/tutorials/commits?author=ruthmoog); or the [Odin Project curriculum](https://github.com/ruthmoog/curriculum/commits?author=ruthmoog)
+I am happy to make editorial suggestions and have used pull requests to improve document or code quality; like in the [codebar tutorials](https://github.com/ruthmoog/tutorials/commits?author=ruthmoog); or the [Odin Project curriculum](https://github.com/ruthmoog/curriculum/commits?author=ruthmoog).
 
 </p></details>
 
@@ -110,8 +110,8 @@ Digital media and print publisher for primary care professionals
 - *Office Assistant*
 
 ## Other interests
-:dancer: I'm a dance enthusiast, especially improvised jazz tap & ballet. I volunteered as a Transcriber for Rambert Voices in 2016/17, as a Mentor to young dancers with Dance United in 2013/14, and as a Performer for the Olympic Ceremonies in 2012.
+:dancer: I'm a dance enthusiast, especially improvised jazz tap, and ballet. I volunteered as a Transcriber for Rambert Voices in 2016/17, as a Mentor to young dancers with Dance United in 2013/14, and as a Performer for the Olympic Ceremonies in 2012.
 
-:computer: I like to attend coder meet-ups, especially codebar; I'm a moderator for the virtual codebar sessions.
+:computer: I like to attend coder meet-ups like codebar; I'm a moderator for the virtual codebar sessions.
 
 :bee: I'm a nature lover and citizen scientist.  I've volunteered as a BeeWalker for the Bumblebee Conservation Trust since 2017, collecting bumblebee abundance data.
