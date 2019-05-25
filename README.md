@@ -1,7 +1,7 @@
 ## Ruth Baker
-**Full stack Ruby developer.**
+**Software developer.**
 
-I want to further technology, positively impact the lives of users, and work with fantastic people to achieve our goals & maintain great software.
+I want to use technology to positively impact the lives of users, and work with fantastic people to achieve our goals & maintain great software.
 
 ### About me
 
@@ -17,7 +17,9 @@ I'd love to work somewhere that,
 
 ## Skills
 
-#### Problem solving
+*Click to read more*
+
+<!-- #### Problem solving
 
 <details><summary>Able to create scalable solutions to time-boxed problems</summary><p>
 
@@ -34,9 +36,9 @@ At _Springer Nature_ I was tasked with introducing a check in production to avoi
 <!-- Use tools for planning eg mind maps and flow charts -->
 <!-- Break problems into smaller parts -->
 
-#### Accuracy
+<!-- #### Accuracy -->
 
-<details><summary>Good at spotting typographical errors</summary><p>
+<!-- <details><summary>Good at spotting typographical errors</summary><p>
 
 I look out for errors and am good at spotting them.  This attention to detail was a requirement of my job in print production at _Springer Healthcare_.  I was responsible for approving proofs of print books and conference materials.  In my roles at _BMC_ I would write and check online copy, and was called upon for proof-reading copy and HTML in my department.  It's a useful skill for writing code!
 
@@ -47,7 +49,7 @@ I am happy to make editorial suggestions and have used pull requests to improve 
 
 </p></details>
 
-#### Quick learner
+#### Quick learner -->
 
 <details><summary>Growth mindset and will to learn</summary><p>
 
@@ -93,20 +95,24 @@ Keywords:<br>
 ## Experience
 
 **Springer Nature** (Jun 2018 to Feb 2019)
+
 Academic publisher known for science, business and education publications
 - *Project Coordinator*
 
 **BMC _BioMed Central_** (Jan 2013 to Jun 2018)
+
 Scientific open access online publisher
 - *Editorial Operations Manager*
 - *Senior Editorial Operations Coordinator*
 - *Operations Coordinator*
 
 **Springer Healthcare** (Oct 2009 to Jan 2013)
+
 Scientific communications specialist
 - *Print Production Coordinator*
 
 **Current Medicine Group Ltd** (Jun 2008 to Oct 2009)
+
 Digital media and print publisher for primary care professionals
 - *Office Administrator*
 - *Office Assistant*
