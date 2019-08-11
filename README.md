@@ -77,13 +77,13 @@ Here I developed my coding knowledge, explored best-practises, & learned industr
 
 **Springer Nature** (Jun 2018 to Feb 2019), _Academic publisher known for science, business and education publications_
 
-In this role I wrote user information in `HTML` for the online peer-review system; established permissions for a major editor user role; liaised with developers regarding the feasibility of analysing publishing data to streamline and automate editorial handling; investigated content issues, identified their causes and, optimised process as a solution; project managed GDPR strategy for non-compliant journals
+In this role I wrote user instructions in `HTML` for the online peer-review system; established permissions for a major user role; liaised with developers regarding the feasibility of analysing publishing data to streamline and automate editorial work; investigated content issues, identified their causes and, optimised process as a solution; project managed GDPR strategy for non-compliant journals
 
 - **Project Coordinator**
 
 **BMC _BioMed Central_** (Jan 2013 to Jun 2018), _Scientific open access online publisher_
 
-Here I performed user testing on new features of the online system; used a triage-process to reduce backlog which lowered internal queries 90% over thirteen months and peer-review time by 13%; documented scripts (`iMacros`) for automatic system setting configurations in the browser; managed a great team!
+Here I performed user testing on new features of the online system; reworked system Release Notes in digest format for non-technical users; used a triage-process to reduce backlog which lowered internal queries 90% over thirteen months and peer-review time by 13%; documented scripts (`iMacros`) for automatic system setting configurations in the browser; managed a great team!
 
 - **Editorial Operations Manager**
 - **Senior Editorial Operations Coordinator**
@@ -91,11 +91,13 @@ Here I performed user testing on new features of the online system; used a triag
 
 **Springer Healthcare** (Oct 2009 to Jan 2013), _Scientific communications specialist_
 
-Acted as quality control for digital and print products in proofing and production; kept track of products & costs (`Excel`) in the pipeline with designers and editors
+In tis job I acted as quality control for digital and print products in proofing and production; kept track of products & costs (`Excel`) in the pipeline with designers and editors
 
 - **Print Production Coordinator**
 
 **Current Medicine Group Ltd** (Jun 2008 to Oct 2009), _Digital media and print publisher for primary care professionals_
+
+Here I enjoyed making the office a great enviroment to work in!
 
 - **Office Administrator**
 - **Office Assistant**
