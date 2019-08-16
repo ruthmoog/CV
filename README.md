@@ -5,7 +5,7 @@ I want to use technology to positively impact the lives of users, and work with 
 
 [Blog](https://dev.to/ruthmoog) | [Website](https://ruthmoog.dev) | [LinkedIn](https://www.linkedin.com/in/ruth-baker-685a9361/) | [GitHub](https://github.com/ruthmoog)
 
-I've been active in the coding community, attending meet-ups, keeping a blog and, as a moderator for codebars' virtual codebar.
+I'm active in the coding community, attending meet-ups, keeping a blog and, as a moderator for codebars' virtual codebar.
 I was accepted on the Makers Academy fellowship program in May 2019.
 
 ### Highlighted projects
@@ -18,8 +18,8 @@ I was accepted on the Makers Academy fellowship program in May 2019.
   | Project Info | Skills | Stack | Links |
 | :--- | :--- | :---: | :---: |
 | **Hello, Portfolio**<br />personal static page website | Built with `semantic HTML` and with `accessibility` in mind.  I created `wireframes` of the site design and used `CSS grid` to make a `responsive` single-page website.  | `HTML` `CSS` `Heroku` | [GitHub](https://github.com/ruthmoog/portfolio)<br />[ruthmoog.dev](https://www.ruthmoog.dev) |
-| **Checkboxer**<br />text generator tool | A `responsive` tool that solves a `real world` problem by generating custom text templates.  The user selects options in a `HTML checklist` form and their input generates specific text to match their requests, by reading from a locally configured `CSV` file. | `Sinatra` `Heroku` `Travis CI` `Ruby` `eRuby` `CSS` `HTML` `RSpec` `Capybara` `Rubocop` `RubyCritic` `SimpleCov` | [GitHub](https://github.com/ruthmoog/checkboxer)<br />[live demo](https://checkboxer.herokuapp.com/) |
-| **Acebook**<br /> full stack facebook clone | Developed in a `team` with a `scrum` agile process (managed through `Trello`), `pair-programming` and `BDD`.  We used `semantic commits`, feature branching, and `continuous delivery` automatically deploying to production. | `Heroku` `Travis CI` `Rails` `Ruby` `Rubocop` `RubyCritic` `ScaffoLint` `SimpleCov` | [GitHub](https://github.com/bengscott2/acebook-livewire)<br />[website](http://acebook-livewire.herokuapp.com/)
+| **Checkboxer**<br />text generator tool | A `responsive` tool that solves a `real world` problem by generating custom text templates.  The user selects options in a `HTML checklist` form and their input generates specific text to match their requests, by reading from a locally configured `CSV` file. The live demo is set up with `continuous delivery` automatically deploying to production. | `Sinatra` `Heroku` `Travis CI` `Ruby` `eRuby` `CSS` `HTML` `RSpec` `Capybara` `Rubocop` `RubyCritic` `SimpleCov` | [GitHub](https://github.com/ruthmoog/checkboxer)<br />[live demo](https://checkboxer.herokuapp.com/) |
+| **Fizzy-O**<br /> <strong>final project</strong><br />exercise tracking mobile app | Developed in a `team` with a `scrum` agile process (managed through `Trello`), `pair-programming` and `XP values`.  We used `semantic commits` and feature branching, and we created team member user manuals | `React Native` `JSX` `Expo` `XCode` `Prettier` `Jest` `Enzyme` `iOS` `Android OS` | [Github](https://github.com/LucyMHall/Fizzy_O/commits?author=ruthmoog) |
 
 </details>
 
@@ -28,15 +28,15 @@ I was accepted on the Makers Academy fellowship program in May 2019.
 
 **Growth mindset: quick to learn**
 
-I take an organised and efficient approach to learning.  My determination to continue learning and to improve as a developer for the long-term is evident in my career-change and self-directed education at Makers Academy.  I was able to code a web app in `JavaScript` in 1 week without having used the language before, and from there TDD a kata writing the tests in pure JS - Pretty neat! (middle char)
+I take an organised and efficient approach to learning.  My determination to continue learning and to improve as a developer for the long-term is evident in my career-change and self-directed education at Makers Academy.  I was able to code a web app in `JavaScript` in 1 week without having used the language before, and from there, TDD a kata by writing the tests in pure JS - Pretty neat! (middle char)
 
 **Development process: BDD, TDD, CI/CD**
 
-Throughout the course I've written unit tests and feature tests to drive development incrementally and from the outside in with testing DSLs `RSpec`, `Jasmine` and `Capybara` following the mantra "red, green, refactor".  Tools like `Travis` and `Heroku` have enabled CI & CD.  On my [personal website](https://ruthmoog.dev) project I used the `lighthouse` audit to create a website that achieved 100 scores for performance, accessibility, SEO and best practices.
+Throughout the course I've written unit tests and feature tests to drive development incrementally and from the outside in, with testing DSLs `RSpec`, `Jasmine` and `Capybara` following the mantra "red, green, refactor".  Tools like `Travis` and `Heroku` have enabled CI & CD.  On my [personal website](https://ruthmoog.dev) project I used the `lighthouse` audit to create a website that achieved scores of 100% for performance, accessibility, SEO and best practices.
 
 **Agile practises: scrum, kanban**
 
-I was struggling to limit my side-projects and was frustrated that as a result I wasn't delivering as quickly as I wanted.  I used the opportunity to learn Kanban, by reading up and watching a talk by Eric Brechner, then, I used personal Kanban to manage my side-projects with `Trello`.  Kaban helped me focus, work with clear deliverables, and lessen the cognitive load by reframing a long list of incomplete tasks as backlog.  At Makers, I worked with in teams using Kanban ([Seagull BnB](https://github.com/ruthmoog/Seagull-BnB/commits?author=ruthmoog)) and Scrum ([Acebook](https://github.com/bengscott2/acebook-livewire/commits?author=ruthmoog)) where I got to lead `retros`, `stand-ups`, and `sprint-planning`, where we estimated story points and tracked our team velocity.
+I was struggling to limit my side-projects and was frustrated that as a result I wasn't delivering as quickly as I wanted.  I used the opportunity to learn Kanban, by reading up and watching a talk by Eric Brechner, then, I used personal Kanban to manage my side-projects with `Trello`.  Kaban helped me focus, work with clear deliverables, and lessen the cognitive load by reframing a long list of incomplete tasks as backlog.  At Makers, I worked with in teams using Kanban ([Seagull BnB](https://github.com/ruthmoog/Seagull-BnB/commits?author=ruthmoog)) and Scrum ([Acebook](https://github.com/bengscott2/acebook-livewire/commits?author=ruthmoog)) where I got to lead `retros`, `stand-ups`, and `sprint-planning`.  I estimated story points and tracked our velocity.
 
 **Enthusiastic collaborator: XP values, team work, & pair programming**
 
@@ -83,7 +83,7 @@ In this role I wrote user instructions in `HTML` for the online peer-review syst
 
 **BMC _BioMed Central_** (Jan 2013 to Jun 2018), _Scientific open access online publisher_
 
-Here I performed user testing on new features of the online system; reworked system Release Notes in digest format for non-technical users; used a triage-process to reduce backlog which lowered internal queries 90% over thirteen months and peer-review time by 13%; documented scripts (`iMacros`) for automatic system setting configurations in the browser; managed a great team!
+Here I performed user testing on new features of the online system; reworked system Release Notes in digest format for non-technical users; used a triage-process to reduce backlog which lowered internal queries 90% over thirteen months and peer-review time by 13%; documented `iMacros` scripts for automatic system setting configurations in the browser; managed a great team!
 
 - **Editorial Operations Manager**
 - **Senior Editorial Operations Coordinator**
@@ -91,7 +91,7 @@ Here I performed user testing on new features of the online system; reworked sys
 
 **Springer Healthcare** (Oct 2009 to Jan 2013), _Scientific communications specialist_
 
-In tis job I acted as quality control for digital and print products in proofing and production; kept track of products & costs (`Excel`) in the pipeline with designers and editors
+In tis job I acted as quality control for digital and print products in proofing and production; kept track of products & costs in the pipeline with designers and editors, using advanced `Excel`
 
 - **Print Production Coordinator**
 
