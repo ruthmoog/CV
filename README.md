@@ -5,7 +5,7 @@ I want to use technology to positively impact the lives of users, and work with 
 
 [Blog](https://dev.to/ruthmoog) | [Website](https://ruthmoog.dev) | [LinkedIn](https://www.linkedin.com/in/ruth-baker-685a9361/) | [GitHub](https://github.com/ruthmoog)
 
-I'm active in the coding community, attending meet-ups, keeping a blog and, as a moderator for codebars' virtual codebar.
+I'm active in the coding community, attending meet-ups, keeping a blog, moderating for codebars' virtual codebar and, as an organiser for codebar's London chapter.
 I was accepted on the Makers Academy fellowship program in May 2019.
 
 ### Highlighted projects
@@ -41,6 +41,7 @@ I was struggling to limit my side-projects and was frustrated that as a result I
 **Enthusiastic collaborator: XP values, team work, & pair programming**
 
 For me pair programming is the norm!  I've had the privilege of pairing with amazing people in my cohort, communicating actively and with kindness.  I've reflected at times when pairing didn't go well, using the opportunity to give and receive feedback, try new approaches, and become a better pair partner - with wonderful feedback from my peers!
+
 > "A wonderful pair partner"
 
 >"Very patient and supportive"
@@ -49,7 +50,7 @@ For me pair programming is the norm!  I've had the privilege of pairing with ama
 
 ## Education
 
-**Makers Academy** (May 2019 - Present)
+**Makers Academy** (May 2019 - Aug 2019)
 - **Fellow**
 
 Here I developed my coding knowledge, explored best-practises, & learned industry-standard software engineering methods.
@@ -66,8 +67,9 @@ Here I developed my coding knowledge, explored best-practises, & learned industr
 | Digital Skills: User Experience, Analytics <br>`UX` `Data Analysis` | Accenture<br>FutureLearn | 2019 |
 | Critical Thinking, Strategic Thinking, Project Management <br>`Problem Solving` `Strategy` `Project Management` | Linda.com | 2018 |
 | Programming for Everybody <br>`Python` | University of Michigan<br>Coursera | 2015 |
+| SQL Introduction<br>`SQL` | Acuity Training Ltd| 2013 |
 | Mentoring<br>`Mentor` `Coaching` ` Communication` | Dance United | 2013 |
-| Audio, Audio Theory, Video<br>certificate of lifelong learning <br>`Technology` `Audio Engineering` | Thames Valley University | 2005 |
+| Audio, Audio Theory, Video<br>advanced certificate of lifelong learning <br>`Technology` `Audio Engineering` | Thames Valley University | 2005 |
 | A level Music Technology, A level Physics, AS level Psychology <br>`Mathematics` `Science` `Technology` | St. Angela's and St. Bonaventure's Sixth Form Centre | 2003 |
 | Computer-Aided Design And Manufacturing certificate <br>`CAD/CAM`| WISE (Women Into Science and Engineering) | 1999 |
 
