@@ -93,13 +93,13 @@ Here I performed user testing on new features of the online system; reworked sys
 
 **Springer Healthcare** (Oct 2009 to Jan 2013), _Scientific communications specialist_
 
-In tis job I acted as quality control for digital and print products in proofing and production; kept track of products & costs in the pipeline with designers and editors, using advanced `Excel`
+In this job I acted as quality control for digital and print products in proofing and production; kept track of products & costs in the pipeline with designers and editors, using advanced `Excel`
 
 - **Print Production Coordinator**
 
 **Current Medicine Group Ltd** (Jun 2008 to Oct 2009), _Digital media and print publisher for primary care professionals_
 
-Here I enjoyed making the office a great enviroment to work in!
+Here I enjoyed making the office a great environment to work in!
 
 - **Office Administrator**
 - **Office Assistant**
