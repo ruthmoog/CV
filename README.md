@@ -28,7 +28,7 @@ I was accepted on the Makers Academy fellowship program in May 2019.
 
 **Growth mindset: quick to learn**
 
-I take an organised and efficient approach to learning.  My determination to continue learning and to improve as a developer for the long-term is evident in my career-change and self-directed education at Makers Academy.  I was able to code a web app in `JavaScript` in 1 week without having used the language before, and from there, TDD a kata by writing the tests in pure JS - Pretty neat! (middle char)
+I take an organised and efficient approach to learning.  My determination to continue learning and to improve as a developer for the long-term is evident in my career-change and self-directed education at Makers Academy.  I was able to code a web app in `JavaScript` in 1 week without having used the language before, and from there, TDD a kata by writing the tests in pure JS - Pretty neat! ([middle character](https://github.com/ruthmoog/middle-character-js))
 
 **Development process: BDD, TDD, CI/CD**
 
