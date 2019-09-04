@@ -36,7 +36,7 @@ Throughout the course I've written unit tests and feature tests to drive develop
 
 **Agile practises: scrum, kanban**
 
-I was struggling to limit my side-projects and was frustrated that as a result I wasn't delivering as quickly as I wanted.  I used the opportunity to learn Kanban, by reading up and watching a talk by Eric Brechner, then, I used personal Kanban to manage my side-projects with `Trello`.  Kaban helped me focus, work with clear deliverables, and lessen the cognitive load by reframing a long list of incomplete tasks as backlog.  At Makers, I worked with in teams using Kanban ([Seagull BnB](https://github.com/ruthmoog/Seagull-BnB/commits?author=ruthmoog)) and Scrum ([Acebook](https://github.com/bengscott2/acebook-livewire/commits?author=ruthmoog)) where I got to lead `retros`, `stand-ups`, and `sprint-planning`.  I estimated story points and tracked our velocity.
+I was struggling to limit my side-projects and was frustrated that as a result I wasn't delivering as quickly as I wanted.  I used the opportunity to learn Kanban, by reading up and watching a talk by Eric Brechner, then, I used personal Kanban to manage my side-projects with `Trello`.  Kaban helped me focus, work with clear deliverables, and lessen the cognitive load by reframing a long list of incomplete tasks as backlog.  At Makers, I worked with in teams using Kanban ([Seagull BnB](https://github.com/ruthmoog/Seagull-BnB/commits?author=ruthmoog)) and Scrum ([Acebook](https://github.com/bengscott2/acebook-livewire/commits?author=ruthmoog)) where I got to lead `retros`, `stand-ups`, and `sprint-planning`.  I estimated story points and tracked our `velocity`.
 
 **Enthusiastic collaborator: XP values, team work, & pair programming**
 
@@ -44,9 +44,9 @@ For me pair programming is the norm!  I've had the privilege of pairing with ama
 
 > "A wonderful pair partner"
 
->"Very patient and supportive"
+> "Very patient and supportive"
 
->"Keep working in the same way, you rock!"
+> "Keep working in the same way, you rock!"
 
 ## Education
 
